@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="916594c1-750c-48b0-9cf0-eae77aeacefb" name="Default" comment="" />
+    <list default="true" id="916594c1-750c-48b0-9cf0-eae77aeacefb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/JUnit/Learning/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JUnit/Learning/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/JUnit_AssessmentOne/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JUnit_AssessmentOne/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/JUnit_AssessmentOne/JUnit_Tests_Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/JUnit_AssessmentOne/JUnit_Tests_Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/ByteStreamInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/ByteStreamInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/ByteStreamOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/ByteStreamOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/CharStreamInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/CharStreamInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/CharStreamOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/CharStreamOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/FileIO_Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/FileIO_Assignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/Names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/Names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/Interfaces/Ford.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/Interfaces/Ford.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/Interfaces/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/Interfaces/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/LinkedLists/LinkedListExampe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/LinkedLists/LinkedListExampe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/Overriding/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/Overriding/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/Overriding/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/Overriding/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seleniumTest/Overriding/OverridingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seleniumTest/Overriding/OverridingMethod.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,89 +32,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/polymorphism/Vehicle.java">
+      <file leaf-file-name="JUnitTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-80">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="-9">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JUnitTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/JUnit_AssessmentOne/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="43" column="37" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+              <folding>
                 <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JUnit_Tests_Account.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/JUnit_AssessmentOne/JUnit_Tests_Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
                 <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#2340#2341#0" expanded="true" />
+                <element signature="e#2402#2403#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SUV.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/polymorphism/SUV.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
-              <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Semi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/polymorphism/Semi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Motorbike.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/polymorphism/Motorbike.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PolymorphismMethod.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/polymorphism/PolymorphismMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -104,9 +92,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -120,22 +112,41 @@
         <option value="$PROJECT_DIR$/src/com/seleniumTest/polymorphism/Semi.java" />
         <option value="$PROJECT_DIR$/src/com/seleniumTest/polymorphism/Motorbike.java" />
         <option value="$PROJECT_DIR$/src/com/seleniumTest/polymorphism/PolymorphismMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/com/seleniumTest/Overriding/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/com/seleniumTest/Overriding/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/com/seleniumTest/Overriding/OverridingMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/Overriding/OverridingMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/Interfaces/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/Interfaces/Ford.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/LinkedLists/LinkedListExampe.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/ByteStreamInput.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/ByteStreamOutput.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/CharStreamOutput.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/CharStreamInput.java" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/Names.txt" />
+        <option value="$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/FileIO_Assignment.java" />
+        <option value="$PROJECT_DIR$/src/com/JUnit/Learning/Addition.java" />
+        <option value="$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTest.java" />
+        <option value="$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/com/JUnit_AssessmentOne/Account.java" />
+        <option value="$PROJECT_DIR$/src/com/JUnit_AssessmentOne/JUnit_Tests_Account.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-5" />
     <option name="y" value="-25" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,39 +154,25 @@
               <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestProject" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
-              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.seleniumTest.FileReadWrite" />
       <recent name="com.seleniumTest.polymorphism" />
     </key>
   </component>
@@ -191,30 +188,124 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PolymorphismMethod">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.seleniumTest.selenium.HelloWorld" />
-      <module name="TestProject" />
+  <component name="RunManager" selected="JUnit.JUnit_Tests_Account">
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="PolymorphismMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.seleniumTest.polymorphism.PolymorphismMethod" />
+    <configuration name="JUnitTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.seleniumTest.polymorphism.*" />
+          <option name="PATTERN" value="com.JUnit.Learning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.JUnit.Learning" />
+      <option name="MAIN_CLASS_NAME" value="com.JUnit.Learning.JUnitTestSuite" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="RegularExpressionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.seleniumTest.selenium.RegularExpressionsTest" />
+    <configuration name="JUnitTest.test_Add2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JUnit.Learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.JUnit.Learning" />
+      <option name="MAIN_CLASS_NAME" value="com.JUnit.Learning.JUnitTest" />
+      <option name="METHOD_NAME" value="test_Add2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="JUnit_Tests_Account" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JUnit_AssessmentOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.JUnit_AssessmentOne" />
+      <option name="MAIN_CLASS_NAME" value="com.JUnit_AssessmentOne.JUnit_Tests_Account" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="JUnit_Tests_Account.Test_AccountCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JUnit_AssessmentOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.JUnit_AssessmentOne" />
+      <option name="MAIN_CLASS_NAME" value="com.JUnit_AssessmentOne.JUnit_Tests_Account" />
+      <option name="METHOD_NAME" value="Test_AccountCreation" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="JUnit_Tests_Account.Test_AccountDesposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JUnit_AssessmentOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.JUnit_AssessmentOne" />
+      <option name="MAIN_CLASS_NAME" value="com.JUnit_AssessmentOne.JUnit_Tests_Account" />
+      <option name="METHOD_NAME" value="Test_AccountDesposit" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -255,15 +346,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.RegularExpressionsTest" />
-      <item itemvalue="Application.PolymorphismMethod" />
+      <item itemvalue="JUnit.JUnitTest.test_Add2" />
+      <item itemvalue="JUnit.JUnitTestSuite" />
+      <item itemvalue="JUnit.JUnit_Tests_Account" />
+      <item itemvalue="JUnit.JUnit_Tests_Account.Test_AccountCreation" />
+      <item itemvalue="JUnit.JUnit_Tests_Account.Test_AccountDesposit" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PolymorphismMethod" />
-        <item itemvalue="Application.RegularExpressionsTest" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="JUnit.JUnit_Tests_Account" />
+        <item itemvalue="JUnit.JUnit_Tests_Account.Test_AccountCreation" />
+        <item itemvalue="JUnit.JUnit_Tests_Account.Test_AccountDesposit" />
+        <item itemvalue="JUnit.JUnitTestSuite" />
+        <item itemvalue="JUnit.JUnitTest.test_Add2" />
       </list>
     </recent_temporary>
   </component>
@@ -280,42 +375,132 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="JUnit_Tests_Account_Test_AccountCreation - 2018.06.13 at 00h 33m 01s.xml">
+      <configuration name="JUnit_Tests_Account.Test_AccountCreation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_Tests_Account_Test_AccountDesposit - 2018.06.13 at 00h 33m 24s.xml">
+      <configuration name="JUnit_Tests_Account.Test_AccountDesposit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_Tests_Account - 2018.06.13 at 00h 36m 16s.xml">
+      <configuration name="JUnit_Tests_Account" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_Tests_Account_Test_AccountDesposit - 2018.06.13 at 00h 38m 57s.xml">
+      <configuration name="JUnit_Tests_Account.Test_AccountDesposit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_Tests_Account_Test_AccountCreation - 2018.06.13 at 00h 45m 37s.xml">
+      <configuration name="JUnit_Tests_Account.Test_AccountCreation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_Tests_Account - 2018.06.13 at 00h 47m 15s.xml">
+      <configuration name="JUnit_Tests_Account" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_Tests_Account - 2018.06.13 at 00h 59m 16s.xml">
+      <configuration name="JUnit_Tests_Account" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_Tests_Account - 2018.06.13 at 01h 00m 27s.xml">
+      <configuration name="JUnit_Tests_Account" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_Tests_Account - 2018.06.13 at 01h 01m 29s.xml">
+      <configuration name="JUnit_Tests_Account" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnit_Tests_Account - 2018.06.13 at 01h 03m 12s.xml">
+      <configuration name="JUnit_Tests_Account" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32861635" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32861635" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32861635" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/ByteStreamOutput.java</url>
+          <line>14</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JUnit_AssessmentOne/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JUnit_AssessmentOne/JUnit_Tests_Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="28" lean-forward="true" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#2340#2341#0" expanded="true" />
+            <element signature="e#2402#2403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/selenium/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -353,12 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -380,24 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-80">
           <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -405,14 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -420,14 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -435,14 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -450,6 +587,153 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/Overriding/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/Overriding/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/Overriding/OverridingMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/Interfaces/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/Interfaces/Ford.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/LinkedLists/LinkedListExampe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExampleFileOut.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/ByteStreamInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/ByteStreamOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/CharStreamInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/Names.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/CharStreamOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/Adams.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seleniumTest/FileReadWrite/FileIO_Assignment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JUnit/Learning/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JUnit/Learning/JUnitTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JUnit_AssessmentOne/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="43" column="37" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+          <folding>
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/JUnit_AssessmentOne/JUnit_Tests_Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#2340#2341#0" expanded="true" />
+            <element signature="e#2402#2403#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -518,6 +802,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

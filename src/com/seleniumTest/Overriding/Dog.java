@@ -1,4 +1,4 @@
-package com.seleniumTest.com.seleniumTest.Overriding;
+package com.seleniumTest.Overriding;
 
 public class Dog extends Animal
 {
